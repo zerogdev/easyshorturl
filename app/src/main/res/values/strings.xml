@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Easy Short URL</string>
+    <string name="share">Share</string>
+    <string name="shorten_button">SHORTEN</string>
+    <string name="enter_url_hint">Paste your URL\n(https://www.google.com)</string>
+    <string name="copy_link_to_clipboard">Copy link to clipboard</string>
+    <string name="link_copied_to_clipboard">Copy link to clipboard</string>
+</resources>

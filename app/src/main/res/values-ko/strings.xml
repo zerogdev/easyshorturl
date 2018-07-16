@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">쉬운 단축URL</string>
+    <string name="share">공유</string>
+    <string name="enter_url_hint">URL을 입력하세요\n(https://www.google.com)</string>
+    <string name="shorten_button">생성</string>
+    <string name="copy_link_to_clipboard">복사하기</string>
+    <string name="link_copied_to_clipboard">복사되었습니다.</string>
+</resources>
